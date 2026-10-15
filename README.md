@@ -1,2 +1,8 @@
-# MY first projectt
-My first Github project
+#include <iostream>
+using namespace std;
+int main() {
+
+cout << "Hello World!" << endl;
+cout << "My name is Muhammad Fahad" << endl;
+return 0;
+}
